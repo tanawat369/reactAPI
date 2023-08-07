@@ -1,0 +1,6 @@
+npx create-react-app react-login // install react
+react router
+- https://reactrouter.com/en/main/start/overview
+mui install // https://mui.com/material-ui/getting-started/templates/
+- npm install @mui/material @emotion/react @emotion/styled // Default installation
+- npm install @mui/icons-material // icons
